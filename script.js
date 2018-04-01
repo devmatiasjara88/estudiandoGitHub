@@ -1,1 +1,2 @@
 alert('primero')
+alert('arreglo')
