@@ -1,5 +1,6 @@
 *.txt
 carpetaPrueba
+node_modules/
 otraCarpeta/*
 #Textos
 !otraCarpeta/si.pdf
