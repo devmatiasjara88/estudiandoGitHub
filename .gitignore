@@ -1,7 +1,7 @@
 *.txt
 carpetaPrueba
 otraCarpeta/*
-#Texto
+#Textos
 !otraCarpeta/si.pdf
 
 
